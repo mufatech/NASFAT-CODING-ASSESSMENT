@@ -1,0 +1,43 @@
+/*body {
+color: red;
+font-family: verdana, Arial, Geneva,Arial Black;
+font-weight: normal;
+background-color: orange;
+}
+*/
+#example input[type=text,]
+input[type=number,] 
+input[type=password,]
+input[type=email,]
+input[type=button,] {
+  padding: 20px;
+  font-size: 20px;
+  border: 10px solid grey;
+  width: 50px;
+  float: auto;
+  width: 50%;
+  background: red;
+}
+
+#para1{
+color: blue;
+font-size: 25px;
+
+}
+#para2 {
+color: purple;
+font-size: 25px;
+
+}
+#para3 {
+color: green;
+font-size: 25px;
+}
+#cont{
+	color: green;
+	font-size: 25px;
+}
+#abt{
+	color: green;
+	font-size: 25px;
+}
